@@ -21,8 +21,8 @@ To use this application, follow the steps below:
 - Modify MP3 file metadata
 - The program supports the Italian language
 
-## Acknowledgements
-This application was written by [marco098](https://github.com/marco098). 
-
 ## License
 This application is licensed under the MIT License. See the LICENSE file for more details.
+
+## Support
+<a href="https://www.buymeacoffee.com/MarcoSimone"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MarcoSimone" /></a>
